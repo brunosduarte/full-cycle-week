@@ -1,4 +1,6 @@
 .vscode
+.vscode/
 ./docker
 *.pem
 */*.pem
+.history/
